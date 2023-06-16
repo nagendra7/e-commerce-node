@@ -12,12 +12,15 @@ Prerequisites:
 
 Installation:
 - Clone the respository
+  
 git clone https://github.com/nagendra7/e-commerce-node.git
 
 - Navigate to the project
+  
 cd e-commerce-node
 
 - Install the dependencies
+  
 npm install
 
 Starting the server
