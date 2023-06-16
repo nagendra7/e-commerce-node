@@ -20,6 +20,7 @@ git clone https://github.com/nagendra7/e-commerce-node.git
 cd e-commerce-node
 
 - Install the dependencies
+  
 npm install
 
 ## Starting the server
