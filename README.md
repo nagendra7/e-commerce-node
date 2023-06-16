@@ -25,9 +25,15 @@ npm install
 
 ## Starting the server
 - To start the server, run the following command:
+  
 npm start
 
 The server will start running on : 'http://localhost:4000'
+
+## Test Cases
+- To run the test cases use the following command:
+  
+npm test
 
 ## API Endpoints
 
